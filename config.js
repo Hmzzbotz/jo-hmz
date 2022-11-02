@@ -1,6 +1,7 @@
 /**
    * Create By THE JO BOT
    * Base by Dika Ardnt
+   * REZZ X HAMZ VIRUS
 */
 
 const fs = require('fs')
@@ -22,8 +23,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285893481599','6285893481599','6285893481599']
-global.premium = ['6285893481599']
+global.owner = ['6289617554095','6285831667198','6289510054512']
+global.premium = ['6289617554095']
 global.packname = '𝕳𝕬𝕸𝖅 𝕭𝕺𝕿𝖅'
 global.author = '𝕳𝕬𝕸𝖅 𝕭𝕺𝕿𝖅'
 global.wlcm = []
