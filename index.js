@@ -1,6 +1,7 @@
 /**
    * Create By THE JO BOT
    * Base by Dika Ardnt
+   * REZZ MAKERS X HANZ VIRUS
 */
 
 require('./config')
@@ -163,12 +164,12 @@ async function startjobotz() {
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 ╭━━•›〘 SUBSCRIBE 〙
 │➳ Channel YouTube
-│➳ THE JO BOT
-│➳ https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w
+│➳ GZ BOTZ SAMA HAMZ BOTZ
+│➳ Https://youtube.com/c/GzBotz
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© THE JO BOT
+© REZZ X HAMZ VIRUS
 `
                   jobotz.sendMessage(anu.id, { image: { url: pp_user }, contextInfo: { mentionedJid: [num] }, caption: anunya2 })
                 }
